@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spring Authentication**
 
-- 🔭 I’m currently learning **Angular And Kotlin**
+- 🔭 I’m currently learning **Angular And Java**
 
 - 📫 How to reach me **banerjeeshreya1919@gmail.com**
 

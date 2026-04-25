@@ -1,5 +1,5 @@
 ![logo](https://github.com/Shreay-banerjee/Shreay-banerjee/blob/main/banner.gif)
-<h1 align="center">Hi 👋, I'm Tanmoy Das</h1>
+<h1 align="center">Hi 👋, I'm Shreya Banerjee</h1>
 <h3 align="center">Full Stack Developer | MCA'27 | BSc CS'25</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
